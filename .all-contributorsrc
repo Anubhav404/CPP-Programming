@@ -1656,17 +1656,46 @@
       ]
     },
     {
-
-      "login": "Raunik2",
-      "name": "Raunak Gupta",
-      "avatar_url": "https://avatars.githubusercontent.com/u/107195515?v=4",
-      "profile": "https://github.com/Raunik2",
-
       "login": "KumarDevada",
       "name": "KumarDevada",
       "avatar_url": "https://avatars.githubusercontent.com/u/115659253?v=4",
       "profile": "https://github.com/KumarDevada",
-
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Raunik2",
+      "name": "Raunak Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107195515?v=4",
+      "profile": "https://github.com/Raunik2",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "3simransharma",
+      "name": "Simran Sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95140559?v=4",
+      "profile": "https://www.behance.net/simransharma3",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MeghaKh-07",
+      "name": "MeghaKh-07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103186485?v=4",
+      "profile": "https://github.com/MeghaKh-07",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "gargsahaj",
+      "name": "Sahaj Garg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31381560?v=4",
+      "profile": "http://www.github.com/sahaj-garg55",
       "contributions": [
         "code"
       ]
